@@ -1,4 +1,3 @@
-
 package com.mycompany.threading01;
 
 public class Threading01 {

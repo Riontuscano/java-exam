@@ -14,7 +14,9 @@ public class mysal {
          {
              System.out.println(e);
          }
-         finally{System.out.println("Thank u");
+         finally{
+            sc.close();
+            System.out.println("Thank u");
          }
          
          }

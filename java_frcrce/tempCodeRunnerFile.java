@@ -1,1 +1,1 @@
- System.out.printl
+static

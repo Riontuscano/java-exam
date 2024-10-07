@@ -26,7 +26,7 @@ class Circle{
     }
 } 
 
-public class circlemain{
+public class Circlemain{
     public static void main(String[] args) {
         Pointcenter center = new Pointcenter(5, 6);
         Circle cir = new Circle(center, 6);
